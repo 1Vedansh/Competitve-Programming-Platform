@@ -1,0 +1,22 @@
+#!/usr/bin/expect -f
+
+set username [lindex $argv 0]
+set password [lindex $argv 1]
+
+set timeout 10
+spawn ../client
+
+expect "Enter your choice:"
+send "2\r"
+
+expect "Enter username:"
+send "$username\r"
+
+expect "Enter password:"
+send "$password\r"
+
+expect -re "Status:.*"
+puts "\n\[$username REPORT\]: $expect_out(0,string)"
+
+close
+wait

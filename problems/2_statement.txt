@@ -1,0 +1,5 @@
+First take an integer input 't' for the number of test cases.
+Write a program to accept an integer 'n' and write the first n prime numbers in increasing order.
+DO IT EFFICIENTLY, AND CORRECTLY
+
+example: n = 5, output: 2 3 5 7 11

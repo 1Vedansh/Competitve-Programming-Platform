@@ -1,0 +1,50 @@
+#!/usr/bin/expect -f
+
+set username [lindex $argv 0]
+set password [lindex $argv 1]
+set solution_path "/home/vedansh/test.c"
+
+set timeout 60
+spawn ../client
+
+# 1. Handle Login
+expect "Enter your choice:"
+send "1\r"
+
+expect "Enter username:"
+send "$username\r"
+
+expect "Enter password:"
+send "$password\r"
+
+# 2. View all problems
+expect "Enter your choice:"
+send "1\r"
+
+expect "Enter page number:"
+send "1\r"
+
+# 3. Submit Solution
+expect "Enter your choice:"
+send "3\r"
+
+expect "Enter problem ID:"
+send "1\r"
+
+expect "Give absolute path to your solution file(should be C code):"
+send "$solution_path\r"
+
+# Capture and print the Submission status
+expect -re "Submission status:.*"
+puts "\n\[$username REPORT\]: $expect_out(0,string)"
+
+# 4. Go back to main menu
+expect "Enter your choice:"
+send "4\r"
+
+# 5. Logout
+expect "Enter your choice:"
+send "3\r"
+
+# Wait for process to terminate naturally since you mentioned EOF happens here
+expect eof

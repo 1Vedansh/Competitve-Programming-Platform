@@ -1,0 +1,9509 @@
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user1
+Enter password: user1
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user2
+Enter password: user2
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user1 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user3
+Enter password: user3
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user2 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user3 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user4
+Enter password: user4
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user5
+Enter password: user5
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user4 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user6
+Enter password: user6
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user5 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user7
+Enter password: user7
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user6 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user8
+Enter password: user8
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user7 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user9
+Enter password: user9
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user8 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user10
+Enter password: user10
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user9 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user11
+Enter password: user11
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user10 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user12
+Enter password: user12
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user11 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user13
+Enter password: user13
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user12 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user14
+Enter password: user14
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user13 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user15
+Enter password: user15
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user14 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user16
+Enter password: user16
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user15 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user17
+Enter password: user17
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user16 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user18
+Enter password: user18
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user17 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user19
+Enter password: user19
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user18 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user20
+Enter password: user20
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user19 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user21
+Enter password: user21
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user20 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user22
+Enter password: user22
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user21 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user23
+Enter password: user23
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user22 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user24
+Enter password: user24
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user23 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user25
+Enter password: user25
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user24 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user26
+Enter password: user26
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user25 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user27
+Enter password: user27
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user26 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user28
+Enter password: user28
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user29
+Enter password: user29
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user28 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user30
+Enter password: user30
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user29 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user31
+Enter password: user31
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user30 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user32
+Enter password: user32
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user31 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user33
+Enter password: user33
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user32 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user34
+Enter password: user34
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user33 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user35
+Enter password: user35
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user34 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user36
+Enter password: user36
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user35 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user37
+Enter password: user37
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user36 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user38
+Enter password: user38
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user37 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user39
+Enter password: user39
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user38 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user40
+Enter password: user40
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user39 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user41
+Enter password: user41
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user40 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user42
+Enter password: user42
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user41 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user43
+Enter password: user43
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user44
+Enter password: user44
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user43 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user44 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user45
+Enter password: user45
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user46
+Enter password: user46
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user45 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user47
+Enter password: user47
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user46 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user48
+Enter password: user48
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user47 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user49
+Enter password: user49
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user48 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user50
+Enter password: user50
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user49 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user51
+Enter password: user51
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user50 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user52
+Enter password: user52
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user53
+Enter password: user53
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user52 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user54
+Enter password: user54
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user53 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user55
+Enter password: user55
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user54 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user56
+Enter password: user56
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user55 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user57
+Enter password: user57
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user56 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user58
+Enter password: user58
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user57 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user59
+Enter password: user59
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user58 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user60
+Enter password: user60
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user61
+Enter password: user61
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user60 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user62
+Enter password: user62
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user61 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user63
+Enter password: user63
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user62 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user64
+Enter password: user64
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user63 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user65
+Enter password: user65
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user64 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user66
+Enter password: user66
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user65 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user67
+Enter password: user67
+Status: 1, User Level: 1, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user66 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user68
+Enter password: user68
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user69
+Enter password: user69
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user68 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user70
+Enter password: user70
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user69 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user71
+Enter password: user71
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user70 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user72
+Enter password: user72
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user71 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user73
+Enter password: user73
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user72 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user74
+Enter password: user74
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user73 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user75
+Enter password: user75
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user74 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user76
+Enter password: user76
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user75 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user77
+Enter password: user77
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user76 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user78
+Enter password: user78
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user77 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user79
+Enter password: user79
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user78 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user80
+Enter password: user80
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user79 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user81
+Enter password: user81
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user80 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user82
+Enter password: user82
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user83
+Enter password: user83
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user82 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user84
+Enter password: user84
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user83 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user85
+Enter password: user85
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user84 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user86
+Enter password: user86
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user85 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user87
+Enter password: user87
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user86 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user88
+Enter password: user88
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user87 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user89
+Enter password: user89
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user90
+Enter password: user90
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user89 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user91
+Enter password: user91
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user90 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user92
+Enter password: user92
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user91 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user93
+Enter password: user93
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user92 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user94
+Enter password: user94
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user93 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user95
+Enter password: user95
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user94 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user96
+Enter password: user96
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user95 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user97
+Enter password: user97
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user96 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user98
+Enter password: user98
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user99
+Enter password: user99
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user100
+Enter password: user100
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user99 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user101
+Enter password: user101
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user102
+Enter password: user102
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user101 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user103
+Enter password: user103
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user102 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user104
+Enter password: user104
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user103 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user105
+Enter password: user105
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user104 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user106
+Enter password: user106
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user107
+Enter password: user107
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user106 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user108
+Enter password: user108
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user107 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user109
+Enter password: user109
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user110
+Enter password: user110
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user109 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user111
+Enter password: user111
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user110 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user112
+Enter password: user112
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user111 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user113
+Enter password: user113
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user114
+Enter password: user114
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user113 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user115
+Enter password: user115
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user116
+Enter password: user116
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user115 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user117
+Enter password: user117
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user116 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user118
+Enter password: user118
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user117 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user119
+Enter password: user119
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user118 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user120
+Enter password: user120
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user121
+Enter password: user121
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user122
+Enter password: user122
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user121 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user123
+Enter password: user123
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user122 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user124
+Enter password: user124
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user123 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user125
+Enter password: user125
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user124 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user126
+Enter password: user126
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user125 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user127
+Enter password: user127
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user128
+Enter password: user128
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user127 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user129
+Enter password: user129
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user128 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user130
+Enter password: user130
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user131
+Enter password: user131
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user130 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user132
+Enter password: user132
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user133
+Enter password: user133
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user132 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user134
+Enter password: user134
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user135
+Enter password: user135
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user136
+Enter password: user136
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user135 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user137
+Enter password: user137
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user138
+Enter password: user138
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user139
+Enter password: user139
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user138 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user140
+Enter password: user140
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user139 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user141
+Enter password: user141
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user140 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user142
+Enter password: user142
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user141 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user143
+Enter password: user143
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user142 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user144
+Enter password: user144
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user145
+Enter password: user145
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user144 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user146
+Enter password: user146
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user147
+Enter password: user147
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user146 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user148
+Enter password: user148
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user147 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user149
+Enter password: user149
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user148 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user150
+Enter password: user150
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user149 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user151
+Enter password: user151
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user152
+Enter password: user152
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user151 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user153
+Enter password: user153
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user152 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user154
+Enter password: user154
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user153 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user155
+Enter password: user155
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user154 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user156
+Enter password: user156
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user155 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user157
+Enter password: user157
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user156 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user158
+Enter password: user158
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user157 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user159
+Enter password: user159
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user158 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user160
+Enter password: user160
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user159 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user161
+Enter password: user161
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user160 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user162
+Enter password: user162
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user161 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user163
+Enter password: user163
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user164
+Enter password: user164
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user165
+Enter password: user165
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user164 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user166
+Enter password: user166
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user165 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user167
+Enter password: user167
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user166 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user168
+Enter password: user168
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user167 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user169
+Enter password: user169
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user168 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user170
+Enter password: user170
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user169 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user171
+Enter password: user171
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user172
+Enter password: user172
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user171 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user173
+Enter password: user173
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user172 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user174
+Enter password: user174
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user173 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user175
+Enter password: user175
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user176
+Enter password: user176
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user177
+Enter password: user177
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user176 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user178
+Enter password: user178
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user179
+Enter password: user179
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user178 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user180
+Enter password: user180
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user179 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user181
+Enter password: user181
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user182
+Enter password: user182
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user183
+Enter password: user183
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user182 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user184
+Enter password: user184
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user183 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user185
+Enter password: user185
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user186
+Enter password: user186
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user187
+Enter password: user187
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user186 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user188
+Enter password: user188
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user189
+Enter password: user189
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user188 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user190
+Enter password: user190
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user189 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user191
+Enter password: user191
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user190 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user192
+Enter password: user192
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user191 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user193
+Enter password: user193
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user194
+Enter password: user194
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user195
+Enter password: user195
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user196
+Enter password: user196
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user195 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user197
+Enter password: user197
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user196 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user198
+Enter password: user198
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user197 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user199
+Enter password: user199
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+spawn ../client
+Successfully connected to the server!
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: user200
+Enter password: user200
+Status: 0, User Level: 0, Message: Login successful
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 1
+Enter page number: 1
+Problems on page 1:
+ID: 1, Title: test1, Difficulty: 0
+ID: 2, Title: test2, Difficulty: 2
+ID: 3, Title: GCD_Problem, Difficulty: 1
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 3
+Enter problem ID: 1
+Give absolute path to your solution file(should be C code): /home/vedansh/test.c
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user199 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+[user200 REPORT]: Submission status: Accepted
+1. View all problems
+2. View a Problem
+3. Submit Solution
+4. Go back
+
+Enter your choice: 
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+1
+Enter password: 4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+4
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 0, Message: Logout successful
+3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 1, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: 1
+Enter username: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: /home/vedansh/test.c
+Enter password: 
+[user27 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user42 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user51 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user59 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user67 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 1, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user81 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user88 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user97 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user98 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user100 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user105 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user108 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user112 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user114 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user119 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user120 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user126 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user129 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user131 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user133 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user134 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user136 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user137 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user143 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user145 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user150 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user162 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user163 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user170 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user174 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user175 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user177 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user180 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user181 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user184 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user185 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user187 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user192 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user193 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user194 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 
+[user198 REPORT]: Enter your choice:
+4
+Status: 1, User Level: 0, Message: Invalid username or password
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 3
+Status: 1, Message: User not logged in
+1. Login
+2. Signup
+3. Logout
+
+Enter your choice: 

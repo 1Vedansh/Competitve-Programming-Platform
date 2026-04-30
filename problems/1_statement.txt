@@ -1,0 +1,7 @@
+first line of input is 't' the number of test cases.
+Given an integer 'n', print its square, that is n^2.
+
+Example: n = 1, answer: 1
+Example: n = 4, answer: 16
+
+do it quick

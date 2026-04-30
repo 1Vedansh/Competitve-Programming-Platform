@@ -1,0 +1,5 @@
+Write a program to read an integer 'x' and an integery 'y' and return their GCD.
+Do it efficiently as well.
+
+Example: x = 2, y = 7, Answer = 1
+Example: x = 2, y = 4, Answer = 2
