@@ -34,6 +34,11 @@ The repository is modularly divided into three main components: Server, Client, 
 - **`cJSON.c / .h` & `jsonUtility.c / .h`**: A lightweight third party JSON parser, utilized heavily by both Server and Client to serialize structured requests and responses.
 - **`structs.h` & `codes.h`**: Standardizes shared entities like `User`, `UserRecord`, `LeaderboardEntry`, and `Problem`. `codes.h` defines numeric constants (`LOGIN_ATTEMPT = 1`, `SUBMIT_SOLUTION = 5`) for protocol standardizing.
 
+## Acknowledgments
+This project utilizes the following excellent open source resources:
+* **[cJSON](https://github.com/davegamble/cJSON)**: A lightweight JSON parser used extensively for serializing and parsing communication packets between the client and server.
+* **[seccomp-bpf.h](https://github.com/SUNET/pkcs11-proxy/blob/master/seccomp-bpf.h)**: A highly useful standalone header file borrowed from the SUNET `pkcs11-proxy` project. It provides the essential BPF macro definitions required to construct the secure execution sandbox.
+
 ## Building and Executing
 
 To compile the platform:
